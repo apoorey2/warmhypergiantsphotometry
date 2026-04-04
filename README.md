@@ -1,4 +1,4 @@
-# Warm Hypergiants Photometry Research
+# Photometric Variability of Warm Hypergiants in M31 & M33
 
 **Authors:** Ashi Poorey, Prof. John Martin   
 
