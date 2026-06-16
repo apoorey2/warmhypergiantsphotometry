@@ -81,19 +81,6 @@ Visualization
 
 ⸻
 
-Results
-
-Preliminary analysis reveals a diverse range of variability behaviors:
-
-* Stars exhibiting highly significant periodic variability
-* Stars with variability on timescales ranging from weeks to several years
-* Objects dominated by stochastic red-noise processes
-* Evidence that some candidate periods remain significant even after accounting for correlated noise
-
-The project enables robust separation of genuine periodic signals from noise-driven variability, providing stronger constraints on the physical mechanisms operating in Warm Hypergiant atmospheres.
-
-⸻
-
 Scientific Goals
 
 * Identify statistically significant periodic variability in Warm Hypergiants
